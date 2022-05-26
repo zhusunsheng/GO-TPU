@@ -1,2 +1,2 @@
-# Ph.D. Research Project
-GO-TPU project C/C++ code for backup and sharing
+# GO-TPU C/C++ code for backup and sharing
+
